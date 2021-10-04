@@ -45,3 +45,8 @@
 .theme-dark ::selection {
     background-color: #3b3e5270 !important;
 }
+
+/* --- Friend List Tab --- */
+.friendSelected-1sa4bG {
+    background-color: red !important; /*test*/
+}
