@@ -40,3 +40,8 @@
     --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
     --channeltextarea-background: var(--background-secondary);
 }
+
+/* --- General --- */
+.theme-dark ::selection {
+    background-color: #3b3e5270 !important;
+}
