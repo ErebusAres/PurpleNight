@@ -1,52 +1,15 @@
-/*//META{"name":"Purple Night","description":"Purple Night Discord Dark Theme","author":"FearsRedemption#9815","version":"0.0.1","source":"","website":""}*/ /**/
-
 /* --- Discord Variables ---*/
-.theme-dark {
-    --header-primary: #fff;
-    --header-secondary: #b9bbbe;
-    --text-normal: #dcddde;
-    --text-muted: #72767d;
-    --interactive-normal: #6f738e;
-    --interactive-hover: #a6aac5;
-    --interactive-active: #aeb4cf;
-    --interactive-muted: #484a57;
-    --channels-default: #545766;
-    --background-primary: #1a1b26;
-    --background-secondary: #171722;
-    --background-secondary-alt: #13131a;
-    --background-tertiary: #16161e;
-    --background-tertiary-alt: #13131a;
-    --background-accent: #434461;
-    --background-floating: #161620;
-    --background-modifier-hover: #212331c0;
-    --background-modifier-active: #282a3680;
-    --background-modifier-selected: #24263171;
-    --background-modifier-accent: #21212c;
-    --background-mentioned: #252836;
-    --border-mentioned: #474c64;
-    --background-mentioned-hover: #2f3344;
-    --accent-color: #365aaa;
-    --folder-color: #272a36d0;
-    --folder-color-light: #2f3342d0;
-    --input-box-bg: #14141b;
-    --input-box-border: #0f0f14;
-    --input-box-border-focus: #1b1c26;
-    --scrollbar-thin-thumb: transparent;
-    --scrollbar-thin-track: transparent;
-    --scrollbar-auto-thumb: #2b2b46af;
-    --scrollbar-auto-thumb-hover: #27273d85;
-    --scrollbar-auto-track: transparent;
-    --scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-auto-thumb);
-    --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
-    --channeltextarea-background: var(--background-secondary);
+:root {
+    --version: "0.0.1";
+    --greyDark:  #17202A;
+    --greyMed: #212F3D;
+    --greyLight: #2C3E50;
+    --purDark: #4A235A;
+    --purMed: #6C3483;
+    --purLight: #8E44AD;
 }
 
-/* --- General --- */
-.theme-dark ::selection {
-    background-color: #3b3e5270 !important;
-}
-
-/* --- Friend List Tab --- */
-.friendSelected-1sa4bG {
-    background-color: red !important; /*test*/
+/* Testing */
+scrollerInner-2YIMlh {
+    background-color: var(--purMed);
 }

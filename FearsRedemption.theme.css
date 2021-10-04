@@ -1,10 +1,12 @@
-/**
- * @name Purple Night
- * @description Discord Port of Visual Studio Code Theme
- * @author FearsRedemption
- * @version 0.0.1
- * @authorId 105421829178437632
- */
+//META {
+    "name":"Purple Night",
+    "description":"Purple Night Discord Dark Theme",
+    "author":"FearsRedemption#9815",
+    "version":"0.0.1",
+    "source":"",
+    "website":""
 
-/* DONT TOUCH THIS!!! */
+}
+
+/* Path */
 @import url("https://raw.githack.com/FearsRedemption/PurpleNight/main/PurpleNightCore.css");
